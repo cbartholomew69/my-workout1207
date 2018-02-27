@@ -7,6 +7,7 @@ import { WorkoutService } from '../../app/services/workout.service';
   templateUrl: 'workouts.html'
 })
 export class WorkoutsPage {
+  workouts:any
 
   constructor(public navCtrl: NavController, private workoutService:WorkoutService) {
 
@@ -14,7 +15,8 @@ export class WorkoutsPage {
 
   ngOnInit() {
     this.workoutService.getWorkouts().subscribe(workouts => {
-      console.log(workouts);
+      this.workouts = workouts;
+      // console.log(workouts);
     });
 
   }
