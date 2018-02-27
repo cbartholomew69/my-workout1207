@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { WorkoutService } from '../../app/services/workout.service';
+import { WorkoutDetailsPage } from '../workout-details/workout-details';
 
 @Component({
   selector: 'workouts',
@@ -17,6 +18,13 @@ export class WorkoutsPage {
     this.workoutService.getWorkouts().subscribe(workouts => {
       this.workouts = workouts;
       // console.log(workouts);
+    });
+
+  }
+
+  workoutSelected(event, workout) {
+    this.navCtrl.push(WorkoutDetailsPage, {
+      workout: workout
     });
 
   }
