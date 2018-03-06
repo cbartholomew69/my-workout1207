@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 
 import { AboutPage } from '../about/about';
 import { AddWorkoutPage } from '../add-workout/add-workout';
-import { HomePage } from '../home/home';
 import { WorkoutsPage } from '../workouts/workouts';
 
 @Component({
