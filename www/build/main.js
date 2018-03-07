@@ -98,7 +98,7 @@ var AboutPage = (function () {
     }
     AboutPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-about',template:/*ion-inline-start:"/Users/christy/Desktop/angular2/myworkouts/src/pages/about/about.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      About\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding class="pa">\n  <p>This app to designed to keep track of your workout programs</p>\n</ion-content>\n'/*ion-inline-end:"/Users/christy/Desktop/angular2/myworkouts/src/pages/about/about.html"*/
+            selector: 'page-about',template:/*ion-inline-start:"/Users/christy/Desktop/angular2/myworkouts/src/pages/about/about.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      About\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding class="pa">\n  <p>This app is designed to keep track of your workout program and its details</p>\n</ion-content>\n'/*ion-inline-end:"/Users/christy/Desktop/angular2/myworkouts/src/pages/about/about.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
     ], AboutPage);
