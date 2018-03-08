@@ -1,5 +1,4 @@
- ## MY WORKOUT APP TRACKER:
- https://github.com/cbartholomew69/my-workout1207
+ ## MY WORKOUT APP TRACKER ON HEROKU:
  
  https://my-workout1207.herokuapp.com/
  
