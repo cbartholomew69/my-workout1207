@@ -1,4 +1,4 @@
- ##MY WORKOUT APP TRACKER:
+ ## MY WORKOUT APP TRACKER:
   
  Ever wonder how you can keep track of your workouts without having to carry pencil and paper with you to the gym? Since we carry
  our phones every where we go why not use, My Workout App Tracker! It allows you to create and save your workout regimen on the fly and 
@@ -6,7 +6,7 @@
  
  ___
  
- ##Screenshot:
+ ## Screenshot:
  
  
  
@@ -14,7 +14,7 @@
  ___
  
  
- ##Technologies Used In This Project:
+ ## Technologies Used In This Project:
  
  * Angular
  
