@@ -37,6 +37,11 @@
  
  
  
+# Deliverables:
+
+User can Add Workouts
+
+User can Delete Workouts
  
   
   
