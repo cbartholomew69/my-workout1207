@@ -6,7 +6,7 @@
  
  ## MY WORKOUT APP TRACKER:
   
- Ever wonder how you can keep track of your workouts without having to carry pencil and paper with you to the gym? Since we carry our phones every where we go why not use "My Workout App Tracker"! This app allows you to create and save your workout routine on the fly and you can reference your workout very easily. It helps to take the guess out of what exercises you did today or the ones you did last week.
+ Ever wonder how you can keep track of your workouts without having to carry pencil and paper with you to the gym? Since we carry our phones every where we go why not use "My Workout App Tracker"! This app allows you to create, update, delete and save your workout routine on the fly. You can reference your workout very easily and it helps to take the guess out of what exercises you did today or the ones you did last week.
  
  ___
  
