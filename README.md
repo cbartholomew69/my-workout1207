@@ -39,9 +39,9 @@
  
 # Deliverables:
 
-User can Add Workouts
+User has full crude functionality to create, update and delete their workout routine.
 
-User can Delete Workouts
+
  
   
   
